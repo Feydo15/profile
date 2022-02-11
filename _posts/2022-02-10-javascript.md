@@ -9,6 +9,7 @@ Date: 10-02-2022
 # introduction
 Iterate with JavaScript Do...While Loops
 
+
 It is called a Do...while loop because of its behaver behavior
 when the condition fails on the first time it
 
