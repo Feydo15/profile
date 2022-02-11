@@ -1,5 +1,5 @@
---- 
-layout: default 
+---
+layout: default
 ---
 
 <div class="home">
@@ -14,9 +14,9 @@ layout: default
             <h2>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h2>
-        </li>
-        {% endfor %}
-    </ul>
+            </li>
+            {% endfor %}
+            </ul>
 
     <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml " | prepend: site.baseurl }}">via RSS</a></p>
 

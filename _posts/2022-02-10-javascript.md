@@ -1,7 +1,8 @@
 ---
 Layout:
-Title:"javascript Do...while loops"
-Date:"10 02 2022"
+Title: "javascript Do...while loops"
+Date: 10 02 2022
+
 ---
 
 # introduction
